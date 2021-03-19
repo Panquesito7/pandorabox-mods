@@ -544,3 +544,6 @@
 [submodule "qos"]
 	path = qos
 	url = https://github.com/S-S-X/qos.git
+[submodule "mtinfo"]
+	path = mtinfo
+	url = https://github.com/BuckarooBanzay/mtinfo
